@@ -73,9 +73,9 @@
 
 ---
 
-### 🔥 LeetCode
+### 🔥 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Stellin-15?theme=dark&font=Fira+Code&ext=activity)](https://leetcode.com/u/Stellin_03/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Stellin_03?theme=dark&font=Fira+Code&ext=activity)](https://leetcode.com/Stellin_03/)
 
 ---
 
@@ -86,6 +86,12 @@
 - 💓 **Heart Disease Predictor** - ML model with risk factor explanations  
 - 🌐 **Microsoft Tech Club Website** - Built with React + TailwindCSS  
 - ⌨️ **Typing Competition Platform** - Firebase-based real-time contest system  
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/Stellin-15/Stellin-15/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
