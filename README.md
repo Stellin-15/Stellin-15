@@ -65,7 +65,8 @@
 ![WSL](https://img.shields.io/badge/-WSL-05122A?style=flat)
 
 ---
-![snake gif](https://github.com/Stellin-15/Stellin-15/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/Stellin-15/Stellin-15/blob/output/github-snake.svg)
+
 
 ---
 
