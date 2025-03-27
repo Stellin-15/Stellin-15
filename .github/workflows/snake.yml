@@ -2,18 +2,16 @@ name: Generate GitHub Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # every day at midnight
+  workflow_dispatch:     # allows manual trigger
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    name: Generate Snake Animation
-
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.Stellin-15 }}
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
