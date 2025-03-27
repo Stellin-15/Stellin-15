@@ -1,45 +1,97 @@
-<h1 align="center">Hi 👋, I'm Stellin</h1>
-<h3 align="center">A Passionate AI/ML Developer & Web Enthusiast from UAE</h3>
-
-- 🔭 I’m currently working on **AI-powered poster generation and medical image segmentation projects**
-
-- 🌱 I’m currently learning **Quantum Machine Learning, MERN Stack, and Computer Networks**
-
-- 👯 I’m looking to collaborate on **AI/ML, web apps, and research projects**
-
-- 📝 I regularly write about tech on [LinkedIn](https://www.linkedin.com/in/stellin-john-george)
-
-- 📫 Reach me at **stellinjohngeorge@gmail.com**
-
-- ⚡ Fun fact: I love mixing creativity with code ✨
+<h1 align="center">Hi 👋, I'm Stellin John George</h1>
+<h3 align="center">AI/ML Engineer | Web Dev Enthusiast | Researcher | Tech Explorer 🚀</h3>
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🌟 About Me
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+- 🎓 3rd-year CSE student at BITS Pilani, Dubai Campus  
+- 🧠 Passionate about Generative AI, LLMs, and building scalable tech solutions  
+- 🤖 Currently working on:
+  - AI-based Poster Generator with Agents and LLaMA
+  - Medical Image Analysis using SAM and ViT
+  - Autonomous robots for real-world applications
+
+- 📚 Learning: MERN Stack | Quantum Machine Learning | Databases | NLP | MLOps  
+- 💬 Ask me about anything AI, ML, Web Dev, or Research  
+- 📫 Email: **stellinjohngeorge@gmail.com**  
+- 🧑‍💻 Portfolio coming soon!
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Web Development
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwind-css)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
-... *(and more)*
+
+#### 🤖 AI / Machine Learning / Research
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)
+![Kaggle](https://img.shields.io/badge/-Kaggle-05122A?style=flat&logo=kaggle)
+
+#### 🧠 LLMs & Agents
+![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat)
+![LLaMA](https://img.shields.io/badge/-LLaMA-05122A?style=flat)
+![GPT](https://img.shields.io/badge/-GPT-05122A?style=flat&logo=openai)
+![Transformers](https://img.shields.io/badge/-HuggingFace-05122A?style=flat&logo=huggingface)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-05122A?style=flat)
+![Agents](https://img.shields.io/badge/-Multi-Agent_Systems-05122A?style=flat)
+
+#### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+
+#### 🛠️ Tools & DevOps
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![WSL](https://img.shields.io/badge/-WSL-05122A?style=flat)
 
 ---
 
 ### 📊 GitHub Stats
 
 ![Stellin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stellin-15&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stellin-15&layout=compact&theme=radical)
 
 ---
 
-### 🧠 Top Projects
+### 🔥 LeetCode
 
-- 🔬 AI Poster Generator  
-- 🫀 Heart Disease Prediction  
-- 👁️‍🗨️ OCT Image Segmentation  
-- 💻 Microsoft Tech Club Website  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Stellin-15?theme=dark&font=Fira+Code&ext=activity)](https://leetcode.com/Stellin-15)
 
 ---
 
-Let me know if you want a cool GitHub banner or animated stats too! Want me to generate this and send the full code?
+### 📌 Featured Projects
+
+- 🖼️ **AI Poster Generator** - LLM & Diffusion-powered smart poster creator  
+- 🧠 **CVI Calculator** - Vision Transformer-based OCT segmentation  
+- 💓 **Heart Disease Predictor** - ML model with risk factor explanations  
+- 🌐 **Microsoft Tech Club Website** - Built with React + TailwindCSS  
+- ⌨️ **Typing Competition Platform** - Firebase-based real-time contest system  
+
+---
+
+### 🔗 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/stellin-john-george)  
+📬 Email: **stellinjohngeorge@gmail.com**
+
+---
