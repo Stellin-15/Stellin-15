@@ -75,7 +75,7 @@
 
 ### 🔥 LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Stellin-15?theme=dark&font=Fira+Code&ext=activity)](https://leetcode.com/Stellin-15)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Stellin-15?theme=dark&font=Fira+Code&ext=activity)](https://leetcode.com/u/Stellin_03/)
 
 ---
 
