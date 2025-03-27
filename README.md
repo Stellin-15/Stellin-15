@@ -14,7 +14,7 @@
 
 - 📚 Learning: MERN Stack | Quantum Machine Learning | Databases | NLP | MLOps  
 - 💬 Ask me about anything AI, ML, Web Dev, or Research  
-- 📫 Email: **stellinjohngeorge@gmail.com**  
+- 📫 Email: **stellinjohn2003@gmail.com**  
 - 🧑‍💻 Portfolio coming soon!
 
 ---
@@ -49,7 +49,7 @@
 ![GPT](https://img.shields.io/badge/-GPT-05122A?style=flat&logo=openai)
 ![Transformers](https://img.shields.io/badge/-HuggingFace-05122A?style=flat&logo=huggingface)
 ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-05122A?style=flat)
-![Agents](https://img.shields.io/badge/-Multi-Agent_Systems-05122A?style=flat)
+
 
 #### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
@@ -89,15 +89,7 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/Stellin-15/Stellin-15/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 🔗 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/stellin-john-george)  
-📬 Email: **stellinjohngeorge@gmail.com**
+### 🔗 Let's Connect 
+📬 Email: **stellinjohn2003@gmail.com**
 
 ---
