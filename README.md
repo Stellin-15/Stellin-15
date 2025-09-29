@@ -5,7 +5,7 @@
 
 ### 🌟 About Me
 
-- 🎓 3rd-year CSE student at BITS Pilani, Dubai Campus  
+- 🎓 4th-year CSE student at BITS Pilani, Dubai Campus  
 - 🧠 Passionate about Generative AI, LLMs, and building scalable tech solutions  
 - 🤖 Currently working on:
   - AI-based Poster Generator with Agents and LLaMA
