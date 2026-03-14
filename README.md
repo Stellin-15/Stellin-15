@@ -17,7 +17,7 @@
 
 ### About
 
-> Code is how I think. I get obsessed with problems — agent architectures, retrieval systems, adversarial attacks — and I don't stop until it works, not just in a notebook, but in production. I'm the kind of person who reads papers at midnight and ships things by morning. I care less about hype and more about systems that actually do something real.
+> Code is how I think. I get obsessed with problems like agent architectures, retrieval systems, adversarial attacks, and I don't stop until it works, not just in a notebook, but in production. I'm the kind of person who reads papers at midnight and ships things by morning. I care less about hype and more about systems that actually do something real.
 
 ---
 
