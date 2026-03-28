@@ -56,19 +56,6 @@
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stellin-15&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github&hide=stars" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stellin-15&layout=compact&theme=github_dark_dimmed&hide_border=true" height="160"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stellin-15&theme=github-dark-blue&hide_border=true" height="160"/>
-</div>
-
----
-
 <div align="center">
   <sub><a href="https://stellinjohngeorge.vercel.app">stellinjohngeorge.vercel.app</a></sub>
 </div>
